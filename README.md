@@ -24,7 +24,7 @@
 </a>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakhawat71)](https://github.com/Sakhawat71/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sakhawat71)](https://wakatime.com/@Sakhawat71)
 
 
 <p>Wakatime count start : 20/10/2023</p>
