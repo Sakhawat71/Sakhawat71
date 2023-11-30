@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sakhawat Showrav</h1>
-<h3 align="center">A passionate MERN-Stack developer from BANGLADESH</h3>
+<!-- <h3 align="center">A passionate MERN-Stack developer from BANGLADESH</h3> -->
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Express.js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **warkwith.sabbir71@gmail.com**
 
