@@ -7,7 +7,8 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 <h3 align="left">Connect with me:</h3>
 
 - Email: warkwith.sabbir71@gmail.com
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/sakhawat71) 
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sakhawat71)
+
 
 
 ## Skills
