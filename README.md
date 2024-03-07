@@ -23,32 +23,29 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 - Version Control:
   - Git/GitHub
 
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
-<!-----  github and most lang..  ------>
 
-<div align="center">
-  <a href="https://github.com/Sakhawat71">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" />
-  </a>
-    <a href="https://github.com/Sakhawat71">
+## GitHub Stats
+[![Sakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/Sakhawat71)
+
+<br/>
+
+## GitHub Streak
+<a href="https://github.com/Sakhawat71">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub streak"/>
-  </a>
-  <a href="https://github.com/Sakhawat71">
+</a>
+
+<br/>
+
+## Top Languages
+
+<a href="https://github.com/Sakhawat71">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakhawat71&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
-
-<!-----  github and most lang end  ------>
+</a>
 
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -85,26 +82,6 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 <br/>
 
 <!-----  
-href="https://github.com/anuraghazra/github-readme-stats"
-href="https://github.com/anuraghazra/convoychat" 
-&layout=compact&langs_count=8&card_width=320
 
-[![Sakhawat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakhawat71&theme=react)](https://github.com/sakhawat71/github-readme-activity-graph)
+[![Sakhawat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/Sakhawat71)
 ------>
-
-
-
-
-
-
-## Projects
-- [Project 1](link-to-project-1): Brief description of project 1.
-- [Project 2](link-to-project-2): Brief description of project 2.
-
-## Contact Me
-
-
-## GitHub Stats
-[![Sakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/Sakhawat71)
-
-
