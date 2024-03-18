@@ -16,6 +16,7 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
   - JavaScript
   - React
   - HTML/CSS
+  - Next.js
 - Backend:
   - Node.js
   - Express.js
