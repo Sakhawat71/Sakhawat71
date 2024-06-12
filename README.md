@@ -51,10 +51,10 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 
 ## Projects
 ### Project 1: [Chat Canvas](https://chat-canvas-71.web.app)
-//Description of project 1.
+
 
 ### Project 2: [CoStudy](https://costudy.netlify.app)
-//Description of project 2.
+
 
 ## Wakatime Stats
 <p align="center">Wakatime counting starts from: 20/10/2023</p>
@@ -71,13 +71,6 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
   </a>
 </p>
 
-
-// ## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-// - [How to Master JavaScript](https://example.com)
-// - [Understanding React Hooks](https://example.com)
-// - [Building Scalable Applications with Node.js](https://example.com)
-<!-- BLOG-POST-LIST:END -->
 
 ## Profile Visitors
 <p align="center">
