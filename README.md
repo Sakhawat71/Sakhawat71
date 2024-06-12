@@ -1,88 +1,85 @@
 <h1 align="center">Hi 👋, I'm Sakhawat Showrav</h1>
-<!-- <h3 align="center">A passionate MERN-Stack developer from BANGLADESH</h3> -->
+
+<!-- Dynamic greeting -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F3FBF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+MERN+Stack+Developer;I+love+building+scalable+web+applications!" alt="Typing SVG" />
+</p>
+
 ## About Me
 I'm a passionate MERN Stack developer from Bangladesh, interested in building scalable web applications and contributing to open-source projects.
 
-
 <h3 align="left">Connect with me:</h3>
 
-- Email: warkwith.sabbir71@gmail.com
+- Email: [warkwith.sabbir71@gmail.com](mailto:warkwith.sabbir71@gmail.com)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sakhawat71)
 
-
-
 ## Skills
-- Frontend:
-  - JavaScript
-  - React
-  - HTML/CSS
-  - Next.js
-- Backend:
-  - Node.js
-  - Express.js
-  - MongoDB
-- Version Control:
-  - Git/GitHub
+### Frontend:
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+- React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+- HTML/CSS ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
-<br/>
-<br/>
+### Backend:
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
+### Version Control:
+- Git/GitHub ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 ## GitHub Stats
-[![Sakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/Sakhawat71)
-
-<br/>
+<p align="center">
+  <a href="https://github.com/Sakhawat71">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sakhawat71&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Sakhawat's GitHub Stats"/>
+  </a>
+</p>
 
 ## GitHub Streak
-<a href="https://github.com/Sakhawat71">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub streak"/>
-</a>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/Sakhawat71">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub Streak"/>
+  </a>
+</p>
 
 ## Top Languages
+<p align="center">
+  <a href="https://github.com/Sakhawat71">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakhawat71&layout=compact&langs_count=8&card_width=320&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Top Languages"/>
+  </a>
+</p>
 
-<a href="https://github.com/Sakhawat71">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakhawat71&layout=compact&langs_count=8&card_width=320" />
-</a>
+## Projects
+### Project 1: [Chat Canvas](https://chat-canvas-71.web.app)
+//Description of project 1.
 
+### Project 2: [CoStudy](https://costudy.netlify.app)
+//Description of project 2.
 
-<br/>
-<br/>
-<br/>
-
-<!-----  waka time start ------>
-<p align="center">Wakatime counting starts from : 20/10/2023</p>
+## Wakatime Stats
+<p align="center">Wakatime counting starts from: 20/10/2023</p>
 <p align="center">
   <a href="https://wakatime.com/@Sakhawat71">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakhawat71" alt="Sakhawat's wakatime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakhawat71&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Sakhawat's Wakatime Stats"/>
   </a>
 </p>
-<!-----  waka time end  ------>
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!----- github activity  graph  ------->
+## GitHub Activity Graph
 <p align="center">
   <a href="https://github.com/sakhawat71/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat71&theme=react" alt="Sakhawat's GitHub activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakhawat71&theme=react-dark" alt="Sakhawat's GitHub Activity Graph"/>
   </a>
 </p>
-<!----- github activity  graph  end ------->
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+// ## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+// - [How to Master JavaScript](https://example.com)
+// - [Understanding React Hooks](https://example.com)
+// - [Building Scalable Applications with Node.js](https://example.com)
+<!-- BLOG-POST-LIST:END -->
 
-<!-----  
-
-[![Sakhawat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/Sakhawat71)
------->
+## Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sakhawat71&color=blue&style=flat-square" alt="Profile Visitors"/>
+</p>
