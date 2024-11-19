@@ -26,6 +26,7 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+- Mongoose ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logoColor=white)
 
 ### Version Control:
 - Git/GitHub ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
