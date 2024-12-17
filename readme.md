@@ -41,7 +41,8 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 ## GitHub Streak
 <p align="center">
   <a href="https://github.com/Sakhawat71">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub Streak"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub Streak"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakhawat71&theme=radical&border=7F3FBF&background=0D1117" alt="Sakhawat's GitHub Streak"/> -->
   </a>
 </p>
 
