@@ -21,6 +21,7 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
 - React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 - HTML ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 - CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+- Redux ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
 - Next.js ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 ### Backend:
