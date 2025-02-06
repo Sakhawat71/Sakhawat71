@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F3FBF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+MERN+Stack+Developer;I+love+building+scalable+web+applications!" alt="Typing SVG" />
 </p>
-
+// 100 days
 ## About Me
 I'm a passionate MERN Stack developer from Bangladesh, interested in building scalable web applications and contributing to open-source projects.
 
