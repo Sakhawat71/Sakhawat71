@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakhawat Showrav</h1>
 
+<p align="center">
+<img src="https://i.ibb.co/Dgj8QnJq/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Black-Modern-Vlogger-You-Tube-Banner" border="0">
+</p>
 <!-- Dynamic greeting -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F3FBF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+MERN+Stack+Developer;I+love+building+scalable+web+applications!" alt="Typing SVG" />
