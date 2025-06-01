@@ -5,17 +5,42 @@
 </p>
 <!-- Dynamic greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F3FBF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+MERN+Stack+Developer;I+love+building+scalable+web+applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F3FBF&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full+Stack+Developer;I+love+building+scalable+web+applications!" alt="Typing SVG" />
 </p>
 
-## About Me
-I'm a passionate MERN Stack developer from Bangladesh, interested in building scalable web applications and contributing to open-source projects.
 
-<h3 align="left">Connect with me:</h3>
 
-- Email: [warkwith.sabbir71@gmail.com](mailto:warkwith.sabbir71@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/s3h)
-- Portfolio: https://sakhawat71.vercel.app
+<p align="center"> 
+  <samp> 
+<b> About Me </b> 
+    <br>
+    「 I'm a passionate Full Stack developer from Bangladesh, interested in building scalable web applications 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+
+<p align="center">
+ <a href="https://sakhawat71.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sakhawat" />
+ </a>
+ <a href="https://www.linkedin.com/in/s3h" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sakhawat" />
+ </a>
+    <a href="mailto:sakhawat.showrav@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sakhawat email" />
+</a>
+ <a href="https://x.com/Sakhawat_71" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sakhawat" />
+ </a> 
+ <a href="https://www.facebook.com/Sakhawat.Hossain.Showrav" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sakhawat" />
+  </a> 
+</p>
+<br />
+
+
 
 ## Skills
 ### Frontend:
@@ -83,6 +108,8 @@ I'm a passionate MERN Stack developer from Bangladesh, interested in building sc
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sakhawat71&theme=radical&border_color=7F3FBF&bg_color=0D1117" alt="Sakhawat's Wakatime Stats"/>
   </a>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/018b40e4-89c7-4be1-93c7-929ad6a19bb3.svg)](https://wakatime.com/@018b40e4-89c7-4be1-93c7-929ad6a19bb3)
 
 ## GitHub Activity Graph
 <p align="center">
