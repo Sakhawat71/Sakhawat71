@@ -40,7 +40,7 @@
 </p>
 <br />
 
-
+[![wakatime](https://wakatime.com/badge/user/018b40e4-89c7-4be1-93c7-929ad6a19bb3.svg)](https://wakatime.com/@018b40e4-89c7-4be1-93c7-929ad6a19bb3)
 
 ## 🚀 Skills
 </br>
@@ -112,7 +112,6 @@
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/018b40e4-89c7-4be1-93c7-929ad6a19bb3.svg)](https://wakatime.com/@018b40e4-89c7-4be1-93c7-929ad6a19bb3)
 
 ## GitHub Activity Graph
 <p align="center">
