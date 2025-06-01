@@ -42,26 +42,27 @@
 
 
 
-## Skills
-### Frontend:
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
-- React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
-- HTML ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-- CSS ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-- Redux ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white)
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+## 🚀 Skills
 
-### Backend:
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-- ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=Prisma&logoColor=white)
-- ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logoColor=white)
 
-### Version Control:
-- Git/GitHub ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&labelColor=black&logo=redux&logoColor=764abc)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38b2ac)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&labelColor=black&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1E4AFF?style=for-the-badge&labelColor=black&logo=zod&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
+
 
 ## GitHub Stats
 <p align="center">
