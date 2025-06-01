@@ -43,6 +43,7 @@
 
 
 ## 🚀 Skills
+</br>
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -63,6 +64,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)
 
+</br>
 
 ## GitHub Stats
 <p align="center">
