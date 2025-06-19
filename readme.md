@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Sakhawat Showrav</h1> -->
 
 <p align="center">
-<img src="https://i.ibb.co/N6BdgjZL/Black-Modern-Vlogger-You-Tube-Banner-1.png" alt="Black-Modern-Vlogger-You-Tube-Banner-1" border="0">
+<img src="https://i.ibb.co/Dgj8QnJq/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Black-Modern-Vlogger-You-Tube-Banner-1" border="0">
 </p>
 <!-- Dynamic greeting -->
 <p align="center">
